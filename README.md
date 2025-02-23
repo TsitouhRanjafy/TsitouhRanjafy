@@ -1,9 +1,8 @@
 <h1 align="center">Salama eh 👋, I'm Tsitohaina</h1>
 <h3 align="center">A passionate fullstack developper and programming</h3>
 
-<div align="center"> 
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsitouhranjafy" alt="tsitouhranjafy" /></a> 
-</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TsitouhRanjafy&theme=onedark)]
 
 
 <h3 align="center">💻 Tech Stack:</h3>
@@ -14,13 +13,14 @@
 
 </p>
 
+<h3 align="center"> 📊 GitHub Stats:</h3>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TsitouhRanjafy&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+<h3 align="center"> 🔝 Top Contributed Repo</h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=TsitouhRanjafy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,8 +1,8 @@
 <h1 align="center">Salama eh 👋, I'm Tsitohaina</h1>
-<h3 align="center">A passionate fullstack developper and programming</h3>
+<h3 align="center">💻 A passionate fullstack developper and programming ✅</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TsitouhRanjafy&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=TsitouhRanjafy&theme=onedark)
 
 
 <h3 align="center">💻 Tech Stack:</h3>

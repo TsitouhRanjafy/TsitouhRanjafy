@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsitouhRanjafy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+![Tsitohaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsitouhRanjafy&show_icons=true&theme=synthwave)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsitouhranjafy&show_icons=true&locale=en" alt="tsitouhranjafy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsitouhranjafy&" alt="tsitouhranjafy" /></p>

@@ -14,19 +14,29 @@
 </p>
 
 <h3 align="center"> 📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TsitouhRanjafy&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsitouhRanjafy&theme=codeSTACKr&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 
 <h3 align="center"> 🔝 Top Contributed Repo</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=TsitouhRanjafy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=TsitouhRanjafy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Let conect </h4>
 <p align="center">
 <a href="https://linkedin.com/in/tsitohaina-ramiaranjafy-2920a4272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsitohaina-ramiaranjafy-2920a4272" height="30" width="40" /></a>
 <a href="https://fb.com/tsitohaina.profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tsitohaina.profile" height="30" width="40" /></a>

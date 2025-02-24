@@ -36,7 +36,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h4 align="center">Let conect 😊 </h4>
+<h4 align="center">Let's conect 😊 </h4>
 <p align="center">
 <a href="https://linkedin.com/in/tsitohaina-ramiaranjafy-2920a4272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsitohaina-ramiaranjafy-2920a4272" height="30" width="40" /></a>
 <a href="https://fb.com/tsitohaina.profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tsitohaina.profile" height="30" width="40" /></a>

@@ -2,9 +2,6 @@
 <h3 align="center" >💻 A passionate fullstack developper and programming ✅</h3>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TsitouhRanjafy&theme=onedark)
-
-
 <h3 align="center">💻 Langage, Technologie and Framework :</h3>
 
 <p align="center" >

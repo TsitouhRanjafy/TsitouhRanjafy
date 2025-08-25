@@ -24,25 +24,6 @@
   <img src="https://img.shields.io/badge/tkinter-3776AB.svg?style=for-the-badge&logo=tkinter&logoColor=white" />
 </p>
 
-## My project and Solutions:
-
- - **Nom du projet :** Développeur Fullstack – conception complète (base de données, logique, interface).  
-Application de prise de notes rapide avec synchronisation hors-ligne.
-  
-    - Back-end en Node.js + TypeScript (architecture Onion)  
-    - Application mobile avec React Native  
-    - Stockage local avec Realm  
-    - UI responsive et simple  
-    - Tests sur Android
-      
-    [![React Native](https://img.shields.io/badge/react_native-61DAFB.svg?style=flat&logo=react&logoColor=black)]() 
-    [![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)]() 
-    [![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=flat&logo=nestjs&logoColor=white)]() 
-    [![Tkinter](https://img.shields.io/badge/tkinter-3776AB.svg?style=flat&logo=python&logoColor=white)]()
-  
-    [source]() - [demo]()
-
-
 
 
 <p align="center">

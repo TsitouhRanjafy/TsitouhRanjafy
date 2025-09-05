@@ -2,19 +2,52 @@
   Salama eh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true"   width="40"/>, I'm Tsitohaina, Developper Typescript | Passionate about the back-end > front-end and alogithme. 
 </p> 
 
+## Techono
 
+- **Souvent**:
+  
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-0A74DA?style=for-the-badge&logo=architecture&logoColor=white" />
 
+- **Parfois**:
+  
+  
+  
+
+  
 
 ## Voici certain demo des mes réalisations:
 
+- Outils [**Git-Follow-Manager**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
+- Outils [**Path-Finding**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo), [**demo facebook**](https://web.facebook.com/share/v/17HjCDepmg/)
+- Outils **Binary-table-generator** [**demon facebook**](https://web.facebook.com/watch/?v=917157340313513&rdid=xAsvgbCwKRwyZ0sG), [**src**](https://github.com/TsitouhRanjafy/Binary-Table-Generator?tab=readme-ov-file#%EF%B8%8F-g%C3%A9n%C3%A9rateur-de-table-binaire-cli)
+- Outils [**Task-Tracker-CLI**](https://github.com/TsitouhRanjafy/Task_Tracker?tab=readme-ov-file#task-tracker)
+- Outils [**Task-Manager**](https://task-manager-p54ehbl6g-tsitohainas-projects-e1869051.vercel.app/), [src](https://github.com/TsitouhRanjafy/Task-Manager-)
+- Application mobile **Drop-Shop** [src](https://github.com/marioralison/Drop_App)
+- Application web **Tranomboky-Vaovao** [**demo facebook**](https://drive.google.com/file/d/1JKU-pNfu-lHaji1qKp6Kk0CfmMqeUzn7/view?usp=sharing)
+- Application web **Formation-management** [src](https://github.com/marioralison/formation_management)
+- Serveur Back-end **Tiny-Link** [src](https://github.com/TsitouhRanjafy/tiny-link)
 - Jeux [**Morpion**](https://github.com/TsitouhRanjafy/Tic-Tac-Toe?tab=readme-ov-file#demo)
 - Jeux [**StrongCapture**](https://github.com/TsitouhRanjafy/StrongCapture?tab=readme-ov-file#demo)
-- Outils **Binary-table-generator** [**demon facebook**](https://web.facebook.com/watch/?v=917157340313513&rdid=xAsvgbCwKRwyZ0sG), [**src**](https://github.com/TsitouhRanjafy/Binary-Table-Generator?tab=readme-ov-file#%EF%B8%8F-g%C3%A9n%C3%A9rateur-de-table-binaire-cli)
-- Outils [**Task-Manager**](https://task-manager-p54ehbl6g-tsitohainas-projects-e1869051.vercel.app/), [src](https://github.com/TsitouhRanjafy/Task-Manager-)
-- Outils [**Task-Tracker-CLI**](https://github.com/TsitouhRanjafy/Task_Tracker?tab=readme-ov-file#task-tracker)
-- Outils [**Path-Finding**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
-- Outils [**Git-Follow-Manager**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
-- Application web **Tranomboky-Vaovao** [**demo drive**]()
+
+## Certificat:
+- **Postman API Fundamental Exper Student** [pdf drive](https://drive.google.com/file/d/1MM8jBmWdkii3FLZG0xraxpgg07Dzb64e/view?usp=sharing), [badge](https://drive.google.com/file/d/1avFSfzjwchdxK3Nfy0ls4jAy6UVMN570/view?usp=sharing)
+- **Gestion et Administration** [pdf drive](https://drive.google.com/file/d/1adlNOhgD6YinhyyEUhYrQBGY0QarhTtH/view?usp=sharing)
+- **Système de Gestion de Base de Donnée** 
+- **Laravel initalisation**
+- **Basic of NodeJS**
 
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />

@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -22,30 +26,30 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-0A74DA?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modular_Architecture-F9A825?style=for-the-badge&logo=modular&logoColor=white" />
   <img src="https://img.shields.io/badge/API_REST-25A162?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 - **Parfois**:
 
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-398AB9?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  
 
 - **Une Fois**:
   
-  
+  <img src="https://img.shields.io/badge/Astra_DB-311C87?style=for-the-badge&logo=datastax&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PouchDB-0099CC?style=for-the-badge&logo=pouchdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-
-  
-  
-
-  
-
-## Voici certain demo des mes réalisations:
+## Certain demo des mes réalisations:
 
 - Outils [**Git-Follow-Manager**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
 - Outils [**Path-Finding**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo), [**demo facebook**](https://web.facebook.com/share/v/17HjCDepmg/)
@@ -66,27 +70,7 @@
 - **Laravel initalisation**
 - **Basic of NodeJS**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-0A74DA?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modular_Architecture-F9A825?style=for-the-badge&logo=modular&logoColor=white" />
-  <img src="https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/tkinter-3776AB.svg?style=for-the-badge&logo=tkinter&logoColor=white" />
-</p>
-
+## Autre:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" width="28%" />

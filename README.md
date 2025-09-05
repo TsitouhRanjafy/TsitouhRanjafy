@@ -3,6 +3,19 @@
 </p> 
 
 
+
+
+## Voici certain demo des mes réalisations:
+
+- Jeux [**Morpion**](https://github.com/TsitouhRanjafy/Tic-Tac-Toe?tab=readme-ov-file#demo)
+- Jeux [**StrongCapture**](https://github.com/TsitouhRanjafy/StrongCapture?tab=readme-ov-file#demo)
+- Outils **Binary-table-generator** [**demon facebook**](https://web.facebook.com/watch/?v=917157340313513&rdid=xAsvgbCwKRwyZ0sG), [**src**](https://github.com/TsitouhRanjafy/Binary-Table-Generator?tab=readme-ov-file#%EF%B8%8F-g%C3%A9n%C3%A9rateur-de-table-binaire-cli)
+- Outils [**Task-Manager**](https://task-manager-p54ehbl6g-tsitohainas-projects-e1869051.vercel.app/), [src](https://github.com/TsitouhRanjafy/Task-Manager-)
+- Outils [**Task-Tracker-CLI**](https://github.com/TsitouhRanjafy/Task_Tracker?tab=readme-ov-file#task-tracker)
+- Outils [**Path-Finding**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
+- Outils [**Git-Follow-Manager**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
+- Application web **Tranomboky-Vaovao** [**demo drive**]()
+
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -23,7 +36,6 @@
   <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/tkinter-3776AB.svg?style=for-the-badge&logo=tkinter&logoColor=white" />
 </p>
-
 
 
 <p align="center">

@@ -51,7 +51,7 @@
 
 ## Certain demo des mes réalisations:
 
-- Outils [**Git-Follow-Manager**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo)
+- Outils [**Git-Follow-Manager**](https://github.com/TsitouhRanjafy/git-follow-manager?tab=readme-ov-file#demo)
 - Outils [**Path-Finding**](https://github.com/TsitouhRanjafy/path-finding?tab=readme-ov-file#demo), [**demo facebook**](https://web.facebook.com/share/v/17HjCDepmg/)
 - Outils **Binary-table-generator** [**demon facebook**](https://web.facebook.com/watch/?v=917157340313513&rdid=xAsvgbCwKRwyZ0sG), [**src**](https://github.com/TsitouhRanjafy/Binary-Table-Generator?tab=readme-ov-file#%EF%B8%8F-g%C3%A9n%C3%A9rateur-de-table-binaire-cli)
 - Outils [**Task-Tracker-CLI**](https://github.com/TsitouhRanjafy/Task_Tracker?tab=readme-ov-file#task-tracker)

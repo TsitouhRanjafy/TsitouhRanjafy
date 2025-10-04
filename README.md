@@ -4,9 +4,9 @@
   Salama eh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true"   width="40"/>, I'm Tsitohaina, Developper Typescript
 </p> 
 
-## Techno
+## Langage, framework and tools
 
-- **Souvent**:
+- **Frequently**:
   
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -31,10 +31,9 @@
   <img src="https://img.shields.io/badge/Modular_Architecture-F9A825?style=for-the-badge&logo=modular&logoColor=white" />
   <img src="https://img.shields.io/badge/API_REST-25A162?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-- **Parfois**:
+- **Sometimes**:
 
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
@@ -42,10 +41,12 @@
   <img src="https://img.shields.io/badge/Sequelize-398AB9?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />
   
 
-- **Une Fois**:
+- **On one occasion**:
   
+  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Astra_DB-311C87?style=for-the-badge&logo=datastax&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/PouchDB-0099CC?style=for-the-badge&logo=pouchdb&logoColor=white" />

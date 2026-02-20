@@ -75,10 +75,13 @@
 
 ## Autre:
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" width="28%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsitouhRanjafy&theme=codeSTACKr&hide_border=false" width="28%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsitouhRanjafy&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="28%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsitouhRanjafy&theme=react-dark&area=true&hide_border=false" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsitouhRanjafy&theme=codeSTACKr&hide_border=false" width="80%" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

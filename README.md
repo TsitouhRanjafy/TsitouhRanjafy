@@ -81,6 +81,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TsitouhRanjafy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" width="80%" alt="TsitouhRanjafy" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsitouhRanjafy&theme=codeSTACKr&hide_border=false" width="80%" />
 </p>
 
@@ -102,6 +107,7 @@
   <a href="https://linkedin.com/in/tsitohaina-ramiaranjafy-2920a4272" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" align="center"/>
   </a>
+
 
   <a href="https://wa.me/tonnumero" title="WhatsApp" target="_blank" rel="noopener noreferrer">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/>

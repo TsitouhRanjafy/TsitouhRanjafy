@@ -1,7 +1,7 @@
 <h2 align="center" > BACK-END & DATABASE </h2> 
 
 <h3 align="center" style="font-weight: 800;">
-  Salama eh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="24"/>, You like coding ? Me too 😊
+  Salama eh <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="24"/>, You love coding ? Me too 😊
 </h3>
 
 
